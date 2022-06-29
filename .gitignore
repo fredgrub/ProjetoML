@@ -1,2 +1,4 @@
 DATA/*.csv
 !DATA/league_games.csv
+
+src/.ipynb_checkpoints
